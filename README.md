@@ -1,3 +1,2 @@
 # shellphish.k
-Try
-Dont copy unless you credits bitch
+#Dont copy unless you credits bitch
